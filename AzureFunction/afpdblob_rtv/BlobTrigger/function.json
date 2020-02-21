@@ -5,7 +5,7 @@
       "name": "myblob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "videoblob/{name}.MP4",
+      "path": "videoblob",
       "connection": "AzureWebJobsStorage"
     }
   ]
